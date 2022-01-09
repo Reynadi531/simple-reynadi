@@ -68,7 +68,7 @@ const App: FC = () => {
                   icon={<AiFillGithub />}
                 />
               </Link>
-              <Link href="https://twitter.com/reynadi17'">
+              <Link href="https://twitter.com/reynadi17">
                 <IconButton
                   fontSize="3xl"
                   aria-label="twitter"
